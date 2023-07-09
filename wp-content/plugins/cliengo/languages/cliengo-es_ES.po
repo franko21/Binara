@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cliengo\n"
+"POT-Creation-Date: 2021-06-09 06:28-0600\n"
+"PO-Revision-Date: 2021-06-09 11:12-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ../admin/partials\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cliengo-admin-display.php:28
+msgid "Unlink Account"
+msgstr "Desvincular cuenta"
+
+#: cliengo-admin-display.php:33
+msgid "Do you already have a cliengo account?"
+msgstr "¿Ya tienes cuenta Cliengo?"
+
+#: cliengo-admin-display.php:39
+msgid "Yes"
+msgstr "Si"
+
+#: cliengo-admin-display.php:45
+msgid "I want to create one"
+msgstr "Crear cuenta"
+
+#: cliengo-admin-display.php:58
+msgid "Successfully uninstalled Cliengo Chatbot from your site"
+msgstr "Chatbot de Cliengo desinstalado correctamente de tu sitio"
+
+#: cliengo-admin-display.php:69
+msgid "Log into your Cliengo account"
+msgstr "Iniciar sesión en tu cuenta de Cliengo"
+
+#: cliengo-admin-display.php:70
+msgid "Chatbot Configuration"
+msgstr "Configuracion de Chatbot"
+
+#: cliengo-admin-display.php:79
+msgid "Invalid username/password"
+msgstr "Usuario/contraseña invalido"
+
+#: cliengo-admin-display.php:82
+msgid "Error logging in, please try again"
+msgstr "Error en el inicio de sesion, por favor intente de nuevo"
+
+#: cliengo-admin-display.php:91
+msgid "Email"
+msgstr "Email"
+
+#: cliengo-admin-display.php:110 cliengo-admin-display.php:381
+msgid "hello@cliengo.com"
+msgstr "hola@cliengo.com"
+
+#: cliengo-admin-display.php:113 cliengo-admin-display.php:384
+msgid "Please enter an email containing @ and (.) mymail@gmail.com"
+msgstr "Por favor, ingresa un email que contenga @ y (.) miemail@gmail.com"
+
+#: cliengo-admin-display.php:120 cliengo-admin-display.php:390
+msgid "Password"
+msgstr "Contraseña"
+
+#: cliengo-admin-display.php:150
+msgid "6 characters minimum"
+msgstr "6 caracteres minimo"
+
+#: cliengo-admin-display.php:153
+msgid "Enter a password with at least 6 digits"
+msgstr "Ingresa una clave de al menos 6 caracteres"
+
+#: cliengo-admin-display.php:158
+msgid ""
+"Did you register with your google or facebook account? <a href=\"#\" @click="
+"\"login.tokenInputSelected = true\">Click here</a>"
+msgstr ""
+"¿Te registraste con tu cuenta de Google o Facebook? <a href=\"#\" @click="
+"\"login.tokenInputSelected = true\">Haz click acá</a>"
+
+#: cliengo-admin-display.php:164
+msgid "Log In"
+msgstr "Iniciar sesión"
+
+#: cliengo-admin-display.php:184
+msgid "Provide your token"
+msgstr "Ingresa tu token"
+
+#: cliengo-admin-display.php:189
+msgid ""
+"Login at <a href=\"https://app.cliengo.com/\" target=\"_blank\">Cliengo</a> "
+"to obtain your chatbot token under Chatbots -> Installation section"
+msgstr ""
+"Inicie sesión en <a href=\"https://app.cliengo.com/\" target=\"_blank"
+"\">Cliengo</a> para obtener su token de chatbot en Chatbots -> Instalación"
+
+#: cliengo-admin-display.php:195
+msgid "Chatbot token entered is incorrect"
+msgstr "El token del Chatbot es incorrecto"
+
+#: cliengo-admin-display.php:198
+msgid "Chatbot token update failed"
+msgstr "Actualización del token fallida"
+
+#: cliengo-admin-display.php:210
+msgid "Back to Login"
+msgstr "Volver al Login"
+
+#: cliengo-admin-display.php:212
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: cliengo-admin-display.php:222
+msgid "Select the chatbot for this website"
+msgstr "Selecciona el chatbot para este sitio web"
+
+#: cliengo-admin-display.php:227
+msgid ""
+"Select the chatbot you want to be displayed on this website and start "
+"managing your new customers."
+msgstr ""
+"Selecciona el chatbot que deseas mostrar en este sitio web y comienza a "
+"gestionar tus nuevos clientes."
+
+#: cliengo-admin-display.php:234
+msgid "Select the chat"
+msgstr "Seleccione el chat"
+
+#: cliengo-admin-display.php:243
+msgid "Click to list websites..."
+msgstr "Clic para listar los sitios web...."
+
+#: cliengo-admin-display.php:257
+msgid "Save"
+msgstr "Guardar"
+
+#: cliengo-admin-display.php:277
+msgid "Now you can go to Cliengo and start managing your clients."
+msgstr "Ya puedes ir a Cliengo y comenzar a gestionar tus clientes."
+
+#: cliengo-admin-display.php:282
+msgid ""
+"You have already installed the chatbot on your website, now you can go to  "
+"Cliengo and start managing your new clients and also the conversations in "
+"the chatbot."
+msgstr ""
+"Ya instalaste el chatbot en tu sitio web, ahora puedes ir a Cliengo y "
+"comenzar a gestionar tus nuevos clientes y también las conversaciones en el "
+"chatbot."
+
+#: cliengo-admin-display.php:290
+msgid "This is how the chatbot widget looks on your website"
+msgstr "Asi se ve el widget del chatbot en tu sitio web"
+
+#: cliengo-admin-display.php:298
+msgid "Go to Cliengo"
+msgstr "Ir a cliengo"
+
+#: cliengo-admin-display.php:311
+msgid "Create an account at Cliengo, no credit card required."
+msgstr "Crea una cuenta en Cliengo sin necesidad de tarjeta de crédito."
+
+#: cliengo-admin-display.php:318
+msgid "Your password should have at least 8 characters."
+msgstr "Ingresa una clave de al menos 8 caracteres."
+
+#: cliengo-admin-display.php:321
+msgid "Please provide a valid website. E.g. www.mysite.com"
+msgstr "Ingresa un sitio web con el formato válido (misitioweb.com)"
+
+#: cliengo-admin-display.php:324
+msgid "Please fill out the entire form."
+msgstr "Por favor ingresa los datos de todo el formulario."
+
+#: cliengo-admin-display.php:336
+msgid "Name"
+msgstr "Nombre"
+
+#: cliengo-admin-display.php:354
+msgid "Ex. John Smith"
+msgstr "Ej. Juan Esteban"
+
+#: cliengo-admin-display.php:357
+msgid "Write your name without symbols or numbers"
+msgstr "Escribe tu nombre sin símbolos ni números"
+
+#: cliengo-admin-display.php:363
+msgid "E-mail"
+msgstr "Email"
+
+#: cliengo-admin-display.php:419
+msgid "8 characters minimum"
+msgstr "8 caracteres minimo"
+
+#: cliengo-admin-display.php:422
+msgid "Enter a password with at least 8 digits"
+msgstr "Ingresa una clave de al menos 8 caracteres"
+
+#: cliengo-admin-display.php:428
+msgid "Website"
+msgstr "Sitio web"
+
+#: cliengo-admin-display.php:446
+msgid "www.mywebsite.com"
+msgstr "www.misitioweb.com"
+
+#: cliengo-admin-display.php:449
+msgid "Enter a website with a valid format (www.mywebsite.com)"
+msgstr "Ingresa un sitio web con un formato valido (www.misitioweb.com)"
+
+#: cliengo-admin-display.php:456
+msgid "Create account"
+msgstr "Crear cuenta"
+
+#: cliengo-admin-display.php:474
+msgid "Congratulations! you installed the Cliengo chatbot on your website"
+msgstr "¡Felicitaciones! Instalaste el chatbot de Cliengo en tu sitio web"
+
+#: cliengo-admin-display.php:477
+msgid "Now you can go to"
+msgstr "Ahora puede ir a"
+
+#: cliengo-admin-display.php:479
+msgid "and have a try."
+msgstr "y probarlo."
+
+#~ msgid "Register & install Cliengo"
+#~ msgstr "Registrarse e Instalar Cliengo"
+
+#~ msgid "Ex. Juan Esteban"
+#~ msgstr "Ej. Juan Esteban"
+
+#~ msgid "Save change"
+#~ msgstr "Guardar cambio"
